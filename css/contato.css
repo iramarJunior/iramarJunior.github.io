@@ -1,0 +1,15 @@
+.demo-card-square.mdl-card {
+    align-content: center;
+    width: 9600px;
+    height: 300px;
+}
+
+.demo-card-square > .mdl-card__title {
+    align-content: center;
+    background:
+            url('../images/outros/contact_banner.png') bottom right 15% no-repeat #46B6AC;
+}
+
+.demo-list-icon {
+    width: 300px;
+}
