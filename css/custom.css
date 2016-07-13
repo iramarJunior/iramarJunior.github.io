@@ -1,0 +1,11 @@
+html,body{
+    width: auto;
+    height: 100%;
+    align-content: center;
+}
+
+.section-all{
+    width: auto;
+    height: 100%;
+    min-height: 100%;
+}
